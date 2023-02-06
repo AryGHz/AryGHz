@@ -1,4 +1,4 @@
-# HOLA!:tw-1f352: :tw-1f352:
+# HOLA! 
 
 *Soy Ara! Full Stack Developer, empezando en el campo de la programación y desarrollo web.
 
