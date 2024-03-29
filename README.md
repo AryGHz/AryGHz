@@ -1,6 +1,6 @@
-# HOLA! 
+# HI! 
 
-*Soy Ara! Full Stack Developer, empezando en el campo de la programación y desarrollo web.
+*I´m Ara! Full Stack Developer. Languajes: Javascrip, React, Redux, NodeJs, MySQL, PostgreSQL, CSS, Bootstrap, Python, Java. New projects coming soon!
 
 Mis redes:
 
